@@ -7,7 +7,7 @@
     <br />
     <a href="https://github.com/TelehaDima/timer-homework">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/TelehaDima/timer-homework/blob/fae11368429012a858e90cfdc450b2a9a6c724f5/Bug-report.md">Report Bug</a>
     ·
     <a href="https://github.com/TelehaDima/timer-homework/blob/10e6da700863aa40cbf2a5df0289fb6bf5070731/Request%20Feature.md">Request Feature</a>
   </p>
