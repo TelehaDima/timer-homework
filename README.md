@@ -1,14 +1,11 @@
 <h3 align="center">Timer</h3>
 
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="[https://github.com/othneildrew/Best-README-Template">
+    <img src="https://github.com/TelehaDima/timer-homework/blob/d565510e0d4742a2f8deae2c0ac3e34b0b651280/Screen-Git.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <p align="center">
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/TelehaDima/timer-homework">View Demo</a>
     ·
