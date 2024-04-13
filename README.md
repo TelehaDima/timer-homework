@@ -48,7 +48,6 @@
 This application was created for convenient time display
 
 ### Built With
-
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
