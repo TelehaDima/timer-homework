@@ -74,7 +74,7 @@ This application was created for convenient time display
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://dazzling-wisp-657936.netlify.app)_
+_For more examples, please refer to the [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
