@@ -41,8 +41,6 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This application was created for convenient time display
@@ -84,7 +82,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](dazzling-wisp-657936.netlify.app)_
+_For more examples, please refer to the [Documentation](google.com)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
