@@ -57,8 +57,6 @@ This application was created for convenient time display
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a free API Key at [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)
 2. Clone the repo
    ```sh
