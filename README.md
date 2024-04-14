@@ -47,16 +47,10 @@ This application was created for convenient time display
 
 ### Built With
 
-(https://img.icons8.com/fluency/48/html-5.png")
-* [![Next][Next.js]][Next-url]
-* ![HTML][https://img.icons8.com/fluency/48/html-5.png]
+* <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&logoColor=red"/>
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black"/>
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
