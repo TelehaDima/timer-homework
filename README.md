@@ -48,7 +48,10 @@
 This application was created for convenient time display
 
 ### Built With
+
+(https://img.icons8.com/fluency/48/html-5.png")
 * [![Next][Next.js]][Next-url]
+* ![HTML][https://img.icons8.com/fluency/48/html-5.png]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -104,7 +107,7 @@ No license is required for this product
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Your Name - telehadmytro@gmail.com
 
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
