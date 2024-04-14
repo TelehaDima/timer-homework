@@ -67,7 +67,7 @@ This application was created for convenient time display
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Get a free API Key at [dazzling-wisp-657936.netlify.app](dazzling-wisp-657936.netlify.app)
 2. Clone the repo
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
@@ -84,7 +84,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](dazzling-wisp-657936.netlify.app)_
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -107,7 +107,7 @@ No license is required for this product
 <!-- CONTACT -->
 ## Contact
 
-Your Name - telehadmytro@gmail.com
+E-mail - telehadmytro@gmail.com
 
 Project Link: [https://github.com/TelehaDima/timer-homework](https://github.com/TelehaDima/timer-homework)
 
