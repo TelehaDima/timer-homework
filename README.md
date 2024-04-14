@@ -68,7 +68,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Get a free API Key at [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+  https://github.com/TelehaDima/timer-homework
    ```
 3. Install NPM packages
    ```sh
