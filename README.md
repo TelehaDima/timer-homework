@@ -27,12 +27,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -51,26 +45,6 @@ This application was created for convenient time display
 * [![React][React.js]][React-url]
 * <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=black"/>
 
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-### Installation
-
-1. Get a free API Key at [https://dazzling-wisp-657936.netlify.app](https://dazzling-wisp-657936.netlify.app)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/TelehaDima/timer-homework
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
